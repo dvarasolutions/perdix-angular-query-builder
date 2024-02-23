@@ -24,3 +24,5 @@ http://myforce.github.io/AngularQueryBuilder/
 ## Usage and Documentation
 See the documentation and examples in the GitHub pages:
 http://myforce.github.io/AngularQueryBuilder/
+
+# Dvara fork
